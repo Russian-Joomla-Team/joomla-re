@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="3.4" client="installation">
+	<name>Русский (Russia)</name>
+	<version>3.4.0</version>
+	<creationDate>Февраль 2015</creationDate>
+	<author>Russian Joomla! Team</author>
+	<authorEmail>main@joomla-support.ru</authorEmail>
+	<authorUrl>joomla-support.ru</authorUrl>
+	<copyright>Авторские права (C) 2006 - 2015 Joomla-Support.ru. Все права защищены.</copyright>
+	<license>Лицензия GNU General Public License версии 2 или новее; см. LICENSE.txt</license>
+	<description>Русский язык для инсталлятора Joomla! 3.4+ от Russian Joomla! Team (Joomla-Support.ru)</description>
+	<files>
+		<filename>ru-RU.ini</filename>
+	</files>
+	<metadata>
+		<name>Русский (Russia)</name>
+		<tag>ru-RU</tag>
+		<rtl>0</rtl>
+	</metadata>
+	<params/>
+</metafile>
