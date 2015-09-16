@@ -1,2 +1,2 @@
-# joomla-re
-Joomla! Russian Edition
+# Joomla! Russian Edition (Joomla! RE)
+Unofficial Russian Localization of CMS Joomla!
